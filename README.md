@@ -1,2 +1,6 @@
-# ventilbot
-just a discord bot, dont take it ;(
+# VentilBot
+
+Этот простой бот, который содержит ивент при сообщении.
+
+## ааа
+
